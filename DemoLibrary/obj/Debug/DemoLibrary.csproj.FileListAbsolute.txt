@@ -1,0 +1,14 @@
+C:\Users\igort\Desktop\Mock\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\igort\Desktop\Mock\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\Dapper.dll
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\Dapper.xml
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\igort\Desktop\Mock\DemoLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\igort\Desktop\Mock\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+C:\Users\igort\Desktop\Mock\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\igort\Desktop\Mock\DemoLibrary\obj\Debug\DemoLibrary.pdb

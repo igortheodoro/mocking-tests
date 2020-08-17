@@ -1,0 +1,2 @@
+C:\Users\igort\Desktop\Mock\DemoLibrary\obj\Release\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\igort\Desktop\Mock\DemoLibrary\obj\Release\DemoLibrary.csproj.CoreCompileInputs.cache
